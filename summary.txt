@@ -1,1 +1,2 @@
 The CLI lets us type commands.
+Git records project history.
